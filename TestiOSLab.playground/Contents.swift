@@ -5,7 +5,7 @@ import UIKit
 var str = "Hello, playground"
 var someString = "hi"
 
-str = "123"
+str = "1234"
 someString = "1"
 
 var someArray: Array<String> = ["value"]
